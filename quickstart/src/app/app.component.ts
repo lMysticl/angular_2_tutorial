@@ -1,6 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { Hero } from './hero';
 import { HeroService } from './hero.service';
+
+
 @Component({
   selector: 'my-app',
   template: `
@@ -14,7 +16,9 @@ import { HeroService } from './hero.service';
       </li>
     </ul>
     <my-hero-detail [hero]="selectedHero"></my-hero-detail>
+    
   `,
+  providers: [HeroService],
   styles: [`
     .selected {
       background-color: #CFD8DC !important;
@@ -63,14 +67,18 @@ import { HeroService } from './hero.service';
       margin-right: .8em;
       border-radius: 4px 0 0 4px;
     }
-  `],
-  providers: [HeroService]
+  `]
 })
+
 export class AppComponent implements OnInit {
   title = 'Tour of Heroes';
   heroes: Hero[];
   selectedHero: Hero;
-  constructor(private heroService: HeroService) { }
+
+  constructor(private heroService: HeroService) {
+
+  }
+
   getHeroes(): void {
     this.heroService.getHeroes().then(heroes => this.heroes = heroes);
   }
@@ -80,4 +88,6 @@ export class AppComponent implements OnInit {
   onSelect(hero: Hero): void {
     this.selectedHero = hero;
   }
+
+
 }
