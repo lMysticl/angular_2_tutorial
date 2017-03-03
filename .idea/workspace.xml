@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8125cbac-2ead-444c-899d-2ffe3933f02d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quickstart/src/app/mock-heroes.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quickstart/src/app/heroes.component.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quickstart/src/app/hero.service.ts" afterPath="$PROJECT_DIR$/quickstart/src/app/hero.service.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quickstart/src/app/app.component.ts" afterPath="$PROJECT_DIR$/quickstart/src/app/app.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quickstart/src/app/app.module.ts" afterPath="$PROJECT_DIR$/quickstart/src/app/app.module.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -331,7 +325,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1488531129832</updated>
-      <workItem from="1488531131330" duration="20555000" />
+      <workItem from="1488531131330" duration="20605000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1488542801379</created>
@@ -386,7 +380,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20555000" />
+    <option name="totallyTimeSpent" value="20605000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
