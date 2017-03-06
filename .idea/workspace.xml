@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8125cbac-2ead-444c-899d-2ffe3933f02d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/angular_2_tutorial.iml" afterPath="$PROJECT_DIR$/.idea/angular_2_tutorial.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quickstart/src/app/dashbord.component.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quickstart/src/app/app.component.ts" afterPath="$PROJECT_DIR$/quickstart/src/app/app.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quickstart/src/app/app.module.ts" afterPath="$PROJECT_DIR$/quickstart/src/app/app.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quickstart/src/app/hero-detail.component.ts" afterPath="$PROJECT_DIR$/quickstart/src/app/hero-detail.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quickstart/src/app/hero.service.ts" afterPath="$PROJECT_DIR$/quickstart/src/app/hero.service.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quickstart/src/app/heroes.component.ts" afterPath="$PROJECT_DIR$/quickstart/src/app/heroes.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quickstart/src/app/mock-heroes.ts" afterPath="$PROJECT_DIR$/quickstart/src/app/mock-heroes.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quickstart/src/hero-detail.component.css" afterPath="$PROJECT_DIR$/quickstart/src/hero-detail.component.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,23 +24,23 @@
     <favorites_list name="angular_2_tutorial" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            <state relative-caret-position="306">
+              <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
-                <marker date="1488585722784" expanded="true" signature="247:451" ph="..." />
-                <marker date="1488585722784" expanded="true" signature="286:441" ph="..." />
-                <marker date="1488585722784" expanded="true" signature="545:616" ph="{...}" />
-                <marker date="1488585722784" expanded="true" signature="629:727" ph="{...}" />
-                <marker date="1488585722784" expanded="true" signature="743:934" ph="{...}" />
-                <marker date="1488585722784" expanded="true" signature="965:1036" ph="{...}" />
-                <marker date="1488585722784" expanded="true" signature="1058:1135" ph="{...}" />
-                <marker date="1488585722784" expanded="true" signature="1154:1204" ph="{...}" />
-                <marker date="1488585722784" expanded="true" signature="1224:1539" ph="{...}" />
+                <marker date="1488815188764" expanded="true" signature="265:511" ph="..." />
+                <marker date="1488815188764" expanded="true" signature="314:494" ph="..." />
+                <marker date="1488815188764" expanded="true" signature="741:812" ph="{...}" />
+                <marker date="1488815188764" expanded="true" signature="825:923" ph="{...}" />
+                <marker date="1488815188764" expanded="true" signature="939:1130" ph="{...}" />
+                <marker date="1488815188764" expanded="true" signature="1161:1232" ph="{...}" />
+                <marker date="1488815188764" expanded="true" signature="1254:1331" ph="{...}" />
+                <marker date="1488815188764" expanded="true" signature="1350:1400" ph="{...}" />
+                <marker date="1488815188764" expanded="true" signature="1420:1735" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -56,11 +49,21 @@
       <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="221">
+              <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
               <folding>
-                <element signature="e#0#46#0" expanded="true" />
+                <element signature="e#0#47#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashbord.component.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/quickstart/src/app/dashbord.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -68,13 +71,10 @@
       <file leaf-file-name="hero-detail.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero-detail.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="323">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
-                <marker date="1488585436800" expanded="true" signature="160:388" ph="..." />
-                <marker date="1488585436800" expanded="true" signature="210:262" ph="..." />
-                <marker date="1488585436800" expanded="true" signature="274:377" ph="..." />
               </folding>
             </state>
           </provider>
@@ -83,7 +83,7 @@
       <file leaf-file-name="hero.service.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="272">
               <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
@@ -102,14 +102,22 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="mock-heroes.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quickstart/src/app/mock-heroes.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="heroes.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quickstart/src/app/heroes.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -137,7 +145,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/quickstart/src/index.html" />
-        <option value="$PROJECT_DIR$/quickstart/src/app/mock-heroes.ts" />
         <option value="$PROJECT_DIR$/quickstart/src/app/dashboard.component.ts" />
         <option value="$PROJECT_DIR$/quickstart/src/app/heroes.component.ts" />
         <option value="$PROJECT_DIR$/quickstart/src/hero-detail.component.css" />
@@ -149,6 +156,8 @@
         <option value="$PROJECT_DIR$/quickstart/src/app/hero-detail.component.ts" />
         <option value="$PROJECT_DIR$/quickstart/src/app/hero.service.ts" />
         <option value="$PROJECT_DIR$/quickstart/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/mock-heroes.ts" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/dashbord.component.ts" />
       </list>
     </option>
   </component>
@@ -165,12 +174,14 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
     <handled-path value="$PROJECT_DIR$/quickstart/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1320" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -188,8 +199,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -246,6 +257,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular_2_tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular_2_tutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -263,6 +284,7 @@
     <property name="js.eslint.nodeInterpreter" value="A:/Program Files/nodejs/node" />
     <property name="SearchEverywhereHistoryKey" value="RouterModule&#9;FILE&#9;file://D:/Java/Job/angular_2_tutorial/quickstart/node_modules/@angular/router/src/router_module.d.ts" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -301,6 +323,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -323,34 +351,34 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <configuration default="false" name="Install" type="js.build_tools.npm" factoryName="npm">
-      <package-json value="$PROJECT_DIR$/quickstart/package.json" />
-      <command value="install" />
-      <node-interpreter value="A:/Program Files/nodejs/node" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="false" name="Start" type="js.build_tools.npm" factoryName="npm">
       <package-json value="$PROJECT_DIR$/quickstart/package.json" />
       <command value="run" />
       <scripts>
         <script value="start" />
       </scripts>
-      <node-interpreter value="A:/Program Files/nodejs/node" />
+      <node-interpreter value="project" />
       <envs />
       <method />
     </configuration>
     <configuration default="false" name="Stop" type="js.build_tools.npm" factoryName="npm">
       <package-json value="$PROJECT_DIR$/quickstart/package.json" />
       <command value="stop" />
-      <node-interpreter value="A:/Program Files/nodejs/node" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Install" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/quickstart/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
       <envs />
       <method />
     </configuration>
     <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="npm.Install" />
-      <item index="1" class="java.lang.String" itemvalue="npm.Start" />
-      <item index="2" class="java.lang.String" itemvalue="npm.Stop" />
+      <item index="0" class="java.lang.String" itemvalue="npm.Start" />
+      <item index="1" class="java.lang.String" itemvalue="npm.Stop" />
+      <item index="2" class="java.lang.String" itemvalue="npm.Install" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -367,6 +395,7 @@
       <option name="presentableId" value="Default" />
       <updated>1488531129832</updated>
       <workItem from="1488531131330" duration="20605000" />
+      <workItem from="1488812780163" duration="2904000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1488542801379</created>
@@ -428,7 +457,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26885000" />
+    <option name="totallyTimeSpent" value="29789000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,27 +469,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="false" />
+    <frame x="1358" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3096724" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.49789253" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.50421494" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.49789253" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.49578503" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.49789253" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30982906" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34567901" sideWeight="0.49578503" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.49789253" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -470,26 +499,22 @@
       <list>
         <option value="$PROJECT_DIR$/quickstart/src/main.js.map" />
         <option value="$PROJECT_DIR$/quickstart/src/main.js" />
-        <option value="$PROJECT_DIR$/quickstart/src/app/app.module.js.map" />
-        <option value="$PROJECT_DIR$/quickstart/src/app/app.component.js.map" />
-        <option value="$PROJECT_DIR$/quickstart/src/app/app.component.spec.js" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/mock-heroes.js" />
         <option value="$PROJECT_DIR$/quickstart/src/app/app.component.spec.js.map" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/app.component.spec.js" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/heroes.component.js" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/mock-heroes.js.map" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/hero.service.js" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/app.module.js.map" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/hero.js.map" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/app.component.js.map" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/hero.service.js.map" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/heroes.component.js.map" />
         <option value="$PROJECT_DIR$/quickstart/src/app/app.component.js" />
-        <option value="$PROJECT_DIR$/quickstart/src/app/app.module.js" />
         <option value="$PROJECT_DIR$/quickstart/src/app/hero-detail.component.js" />
         <option value="$PROJECT_DIR$/quickstart/src/app/hero-detail.component.js.map" />
-        <option value="$PROJECT_DIR$/quickstart/src/app/hero.js.map" />
+        <option value="$PROJECT_DIR$/quickstart/src/app/app.module.js" />
         <option value="$PROJECT_DIR$/quickstart/src/app/hero.js" />
-        <option value="$PROJECT_DIR$/quickstart/src/app/hero.service.js" />
-        <option value="$PROJECT_DIR$/quickstart/src/app/hero.service.js.map" />
-        <option value="$PROJECT_DIR$/quickstart/src/app/mock-heroes.js" />
-        <option value="$PROJECT_DIR$/quickstart/src/app/mock-heroes.js.map" />
-        <option value="$PROJECT_DIR$/quickstart/src/app/heroes.component.js.map" />
-        <option value="$PROJECT_DIR$/quickstart/src/app/heroes.component.js" />
-        <option value="$PROJECT_DIR$/quickstart/src/app/dashboard.component.js" />
-        <option value="$PROJECT_DIR$/quickstart/src/app/dashboard.component.js.map" />
-        <option value="$PROJECT_DIR$/quickstart/src/app/app-routing.module.js.map" />
-        <option value="$PROJECT_DIR$/quickstart/src/app/app-routing.module.js" />
       </list>
     </option>
   </component>
@@ -505,122 +530,51 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/quickstart/src/app/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="62" column="30" lean-forward="false" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/app/mock-heroes.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/node_modules/@angular/router/testing/router_testing_module.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="88" column="21" lean-forward="false" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/node_modules/@angular/router/src/router_module.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="79" column="21" lean-forward="false" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/app/dashboard.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/app/heroes.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/hero-detail.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/dashboard.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/app.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app-routing.module.ts">
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1#54#0" expanded="true" />
+            <element signature="e#0#50#0" expanded="true" />
+            <marker date="1488815188764" expanded="true" signature="265:511" ph="..." />
+            <marker date="1488815188764" expanded="true" signature="314:494" ph="..." />
+            <marker date="1488815188764" expanded="true" signature="741:812" ph="{...}" />
+            <marker date="1488815188764" expanded="true" signature="825:923" ph="{...}" />
+            <marker date="1488815188764" expanded="true" signature="939:1130" ph="{...}" />
+            <marker date="1488815188764" expanded="true" signature="1161:1232" ph="{...}" />
+            <marker date="1488815188764" expanded="true" signature="1254:1331" ph="{...}" />
+            <marker date="1488815188764" expanded="true" signature="1350:1400" ph="{...}" />
+            <marker date="1488815188764" expanded="true" signature="1420:1735" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="204">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
-            <element signature="e#0#46#0" expanded="true" />
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero-detail.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -633,9 +587,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/heroes.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/tsconfig.json" />
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#47#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts" />
+    <entry file="file://$PROJECT_DIR$/quickstart/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/node_modules/@angular/router/testing/router_testing_module.d.ts" />
+    <entry file="file://$PROJECT_DIR$/quickstart/node_modules/@angular/router/src/router_module.d.ts" />
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/dashboard.component.ts" />
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/heroes.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/hero-detail.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/dashboard.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app-routing.module.ts" />
     <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="272">
           <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
@@ -643,35 +658,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero-detail.component.ts">
+    <entry file="file://$PROJECT_DIR$/quickstart/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-            <marker date="1488585436800" expanded="true" signature="160:388" ph="..." />
-            <marker date="1488585436800" expanded="true" signature="210:262" ph="..." />
-            <marker date="1488585436800" expanded="true" signature="274:377" ph="..." />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        <state relative-caret-position="306">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
-            <marker date="1488585722784" expanded="true" signature="247:451" ph="..." />
-            <marker date="1488585722784" expanded="true" signature="286:441" ph="..." />
-            <marker date="1488585722784" expanded="true" signature="545:616" ph="{...}" />
-            <marker date="1488585722784" expanded="true" signature="629:727" ph="{...}" />
-            <marker date="1488585722784" expanded="true" signature="743:934" ph="{...}" />
-            <marker date="1488585722784" expanded="true" signature="965:1036" ph="{...}" />
-            <marker date="1488585722784" expanded="true" signature="1058:1135" ph="{...}" />
-            <marker date="1488585722784" expanded="true" signature="1154:1204" ph="{...}" />
-            <marker date="1488585722784" expanded="true" signature="1224:1539" ph="{...}" />
+            <marker date="1488815188764" expanded="true" signature="265:511" ph="..." />
+            <marker date="1488815188764" expanded="true" signature="314:494" ph="..." />
+            <marker date="1488815188764" expanded="true" signature="741:812" ph="{...}" />
+            <marker date="1488815188764" expanded="true" signature="825:923" ph="{...}" />
+            <marker date="1488815188764" expanded="true" signature="939:1130" ph="{...}" />
+            <marker date="1488815188764" expanded="true" signature="1161:1232" ph="{...}" />
+            <marker date="1488815188764" expanded="true" signature="1254:1331" ph="{...}" />
+            <marker date="1488815188764" expanded="true" signature="1350:1400" ph="{...}" />
+            <marker date="1488815188764" expanded="true" signature="1420:1735" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/mock-heroes.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/hero-detail.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/app/dashbord.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
